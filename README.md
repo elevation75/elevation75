@@ -16,7 +16,8 @@ I am a NOT software developer or programmer but I'm a passioned for programming 
 
 ## GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=elevation75&show_icons=true&count_private=true&hide=stars,contribs)
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Elevation75&show_icons=true&theme=dark)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elevation75&layout=compact&theme=dark)
 
 This overview shows my GitHub statistics to give you an idea about my activity level and areas of expertise. It includes metrics such as the number of repositories, commits, and followers.
 
