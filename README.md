@@ -1,6 +1,6 @@
 ## Hi there, I'm Elevation75! 👋
 
-I am a NOT software developer or programmer but I'm a passioned for programming and creating stuff. Welcome to my GitHub profile! Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don't hesitate to reach out. You can find my contact information below.
+I am a <b>NOT</b> a software developer or programmer but I'm a passioned for programming and creating stuff. Welcome to my GitHub profile! Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don't hesitate to reach out. You can find my contact information below.
 
 ---
 
