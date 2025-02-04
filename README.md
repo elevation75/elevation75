@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&pause=1000&width=435&lines=We+came+in+peace!+Resistance+is+futile+;I+am++Elevation+;+I'm+NOT+a+developer+or+programmer;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&pause=1000&width=435&lines=We+came+in+peace!+Resistance+is+futile+;I+am++Elevation+;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 I am a <b>NOT</b> a software developer or programmer but I'm a passioned for programming and creating stuff. Welcome to my GitHub profile! Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don't hesitate to reach out. You can find my contact information below.
 
