@@ -60,7 +60,6 @@ Please visit my [Profile](https://github.com/elevation75) to explore more of my 
 📫 You can reach me through the following channels:
 - Email: just.elevation@gmail.com
 - LinkedIn: [Elevation75](https://www.linkedin.com/in/elevation75)
-- Twitter: [@Elevation75](https://twitter.com/Elevation75)
 - Website: [www.elevation75.com](https://www.elevation75.com)
 
 Don't hesitate to get in touch for collaborations, inquiries, or if you simply want to connect. I look forward to hearing from you!
