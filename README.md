@@ -1,3 +1,17 @@
+<!-- Animated Header -->
+<div align="center">
+  ![coding-background-9izlympnd0ovmpli](https://github.com/user-attachments/assets/e6cd074c-f460-4266-8eb7-8ded87ff5ffb)
+
+" alt="header" style="height: 300px; width: 80%; border-radius: 20px; animation: float 6s ease-in-out infinite; box-shadow: 0 10px 30px rgba(0,0,0,0.2);"/>
+</div>
+
+<style>
+@keyframes float {
+  0% { transform: translateY(0px) rotate(0deg); }
+  50% { transform: translateY(-20px) rotate(3deg); }
+  100% { transform: translateY(0px) rotate(0deg); }
+}
+</style>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=22&pause=1000&color=F7081C&width=460&lines=We+came+in+peace!+Resistance+is+futile+;I+am++Elevation+;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 I am a <b>NOT</b> a software developer or programmer but I'm a passioned for programming and creating stuff. Welcome to my GitHub profile! Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don't hesitate to reach out. You can find my contact information below.
