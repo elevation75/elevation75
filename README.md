@@ -29,11 +29,11 @@ I am a <b>NOT</b> a software developer or programmer but I'm a passioned for pro
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
-
+---
 ## GitHub Stats
 
-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Elevation75&show_icons=true&theme=dark)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elevation75&layout=compact&theme=dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Elevation75&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elevation75&layout=compact&theme=dark)
 
 This overview shows my GitHub statistics to give you an idea about my activity level and areas of expertise. It includes metrics such as the number of repositories, commits, and followers.
 
