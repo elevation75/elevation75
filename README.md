@@ -1,20 +1,18 @@
-# Hi there 👋, I'm [elevation75]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=22&pause=1000&color=F7081C&width=460&lines=We+came+in+peace!+Resistance+is+futile+;I+am++Elevation+;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+Enthusiast;Flutter+Developer;Open-Source+Contributor;Tech+Writer" alt="Typing Animation" />
-</p>
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your LinkedIn]")
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your Twitter]")
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@[Your Medium]")
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[Your Username]")
-
-</div>
+I am a <b>NOT</b> a software developer or programmer but I'm a passioned for programming and creating stuff. Welcome to my GitHub profile! Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don't hesitate to reach out. You can find my contact information below.
 
 ---
 
+## 🧐 About Me
+
+- 🔭 I have been active on GitHub since April 2016
+- 📚 I specialize in Python programming but have experience with various other languages, including C, CSS, Shell, Lua, SCSS, QML, Nix, Roff, Makefile, Dart, Swift, Kotlin, Objective-C, JavaScript, HTML, Cuda, and Dockerfile
+- 🌱 Although my overall activity is relatively low, my commitment and dedication to writing clean and efficient code are unwavering
+- 🚀 I focus on personal projects and continuous learning to improve my skills in software development
+- 💼 Unfortunately, no additional information is available about my professional background or specific interests within the software development field
+
+---
 ### 🛠️ My Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -27,47 +25,58 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
+---
+
+## GitHub Stats
+
+- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Elevation75&show_icons=true&theme=dark)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elevation75&layout=compact&theme=dark)
+
+This overview shows my GitHub statistics to give you an idea about my activity level and areas of expertise. It includes metrics such as the number of repositories, commits, and followers.
 
 ---
 
-### ⚡ GitHub Stats
+## Skills
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=[Your Username]&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your Username]&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-<!-- Replace with your actual project links -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[Your Username]&repo=[Repo 1]&theme=radical)](https://github.com/[Your Username]/[Repo 1])
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=[Your Username]&repo=[Repo 2]&theme=radical)](https://github.com/[Your Username]/[Repo 2])
+- **Python:** My preferred programming language for various projects, including APIs, automation scripts, and data analytics
+- **C:** Utilized for low-level programming and performance-critical tasks
+- **CSS, HTML, JavaScript:** Proficient in frontend web development technologies
+- **Shell:** My go-to language for automation and scripting tasks
+- **Lua:** Knowledge of scripting language used in gaming industry and embedded systems
+- **SCSS:** Skillful in writing stylesheets, particularly with SCSS preprocessor
+- **QML:** Experience with QML, a user interface markup language for Qt applications
+- **Nix:** Familiarity with Nix language used by the Nix package manager
+- **Roff:** Proficient in formatting language mainly used for UNIX man pages
+- **Makefile:** Knowledge of build automation using Makefile
+- **Dart, Swift, Kotlin, Objective-C:** Some exposure to mobile app development
+- **Cuda:** Basic understanding of parallel computing platform and application programming interface
+- **Dockerfile:** Proficient in creating containerized environments using Docker
 
 ---
 
-### 📝 Latest Blog Posts
+## Projects
 
-<!-- Replace with your actual blog links -->
-- [5 Python Tips That Will Make You a Better Developer](https://medium.com/@[Your Medium]/...)
-- [Flutter State Management: The Ultimate Guide](https://medium.com/@[Your Medium]/...)
-- [Building Your First REST API with FastAPI](https://medium.com/@[Your Medium]/...)
+Here are some of my notable projects for you to check out:
+
+1. [Repository1](link): A brief description of the project, highlighting the technologies and concepts used.
+
+2. [Repository2](link): A brief description of the project, highlighting the technologies and concepts used.
+
+3. [Repository3](link): A brief description of the project, highlighting the technologies and concepts used.
+
+Please visit my [Profile](https://github.com/elevation75) to explore more of my repositories.
 
 ---
 
-<div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/elevation75/count.svg)
+## Contact Information
 
-</div>
+📫 You can reach me through the following channels:
+- Email: just.elevation@gmail.com
+- LinkedIn: [Elevation75](https://www.linkedin.com/in/elevation75)
+- Website: [www.elevation75.com](https://www.elevation75.com)
 
-<p align="center">
-  <img src="https://github.com/[Your Username]/[Your Username]/blob/main/images/animated-line.gif?raw=true" alt="animated line" />
-</p>
+Don't hesitate to get in touch for collaborations, inquiries, or if you simply want to connect. I look forward to hearing from you!
 
-![Alt Text](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+---
 
+Thank you for visiting my GitHub profile! Enjoy exploring my projects and don't hesitate to contact me for any further information or inquiries. Happy coding! 😄🚀
