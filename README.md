@@ -30,7 +30,7 @@ I am a <b>NOT</b> a software developer or programmer but I'm a passioned for pro
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </div>
 
-### GitHub Stats
+### 🛸 GitHub Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Elevation75&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elevation75&layout=compact&theme=dark)
@@ -39,7 +39,7 @@ This overview shows my GitHub statistics to give you an idea about my activity l
 
 ---
 
-## Skills
+## ⚙️ Skills
 
 - **Python:** My preferred programming language for various projects, including APIs, automation scripts, and data analytics
 - **C:** Utilized for low-level programming and performance-critical tasks
@@ -57,7 +57,7 @@ This overview shows my GitHub statistics to give you an idea about my activity l
 
 ---
 
-## Projects
+## 🛠️ Projects
 
 Here are some of my notable projects for you to check out:
 
@@ -71,9 +71,9 @@ Please visit my [Profile](https://github.com/elevation75) to explore more of my 
 
 ---
 
-## Contact Information
+## 📫 Contact Information
 
-📫 You can reach me through the following channels:
+ You can reach me through the following channels:
 - Email: just.elevation@gmail.com
 - LinkedIn: [Elevation75](https://www.linkedin.com/in/elevation75)
 - Website: [www.elevation75.com](https://www.elevation75.com)
