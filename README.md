@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [elevation75]
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Python+Enthusiast;Flutter+Developer;Open-Source+Contributor;Tech+Writer" alt="Typing Animation" />
@@ -61,7 +61,7 @@
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/[Your Username]/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/elevation75/count.svg)
 
 </div>
 
