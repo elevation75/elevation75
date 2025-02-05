@@ -1,7 +1,7 @@
 <!-- Animated Header -->
-<div align="center">
-![coding-background-9izlympnd0ovmpli]
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elevation75/elevation75/main/assets/header.png" alt="coding" width="100%" height="300"/>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=22&pause=1000&color=F7081C&width=460&lines=We+came+in+peace!+Resistance+is+futile+;I+am++Elevation+;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
