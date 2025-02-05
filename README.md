@@ -1,6 +1,7 @@
 <!-- Animated Header -->
 <div align="center">
-![coding-background-9izlympnd0ovmpli](https://github.com/user-attachments/assets/e6cd074c-f460-4266-8eb7-8ded87ff5ffb)
+![coding-background-9izlympnd0ovmpli]
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=22&pause=1000&color=F7081C&width=460&lines=We+came+in+peace!+Resistance+is+futile+;I+am++Elevation+;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
