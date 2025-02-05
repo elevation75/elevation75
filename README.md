@@ -57,7 +57,7 @@ This overview shows my GitHub statistics to give you an idea about my activity l
 
 ---
 
-## 🛠️ Projects
+## 🔧 Projects
 
 Here are some of my notable projects for you to check out:
 
