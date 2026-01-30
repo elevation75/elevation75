@@ -5,18 +5,22 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=22&pause=1000&color=F7081C&width=460&lines=We+came+in+peace!+Resistance+is+futile+;I+am++Elevation+;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-I am a <b>NOT</b> a software developer or programmer but I'm a passioned for programming and creating stuff. Welcome to my GitHub profile! Feel free to explore my repositories and projects. If you have any questions or want to collaborate, don't hesitate to reach out. You can find my contact information below.
 
 
-## 🧐 About Me
+## 👋 About Me
 
-- 🔭 I have been active on GitHub since April 2016
-- 📚 I specialize in Python programming but have experience with various other languages, including C, CSS, Shell, Lua, SCSS, QML, Nix, Roff, Makefile, Dart, Swift, Kotlin, Objective-C, JavaScript, HTML, Cuda, and Dockerfile
-- 🌱 Although my overall activity is relatively low, my commitment and dedication to writing clean and efficient code are unwavering
-- 🚀 I focus on personal projects and continuous learning to improve my skills in software development
-- 💼 Unfortunately, no additional information is available about my professional background or specific interests within the software development field
+  I am an Independent Creator and Technology Enthusiast with a deep-seated passion for programming and architectural
+  logic. While my professional path lies outside of software engineering, I approach code with the precision and
+  dedication of a craft. My goal is always the same: clean, efficient, and purposeful software.
 
+   - 🔭 Active Explorer: Contributing to the GitHub community since April 2016.
+   - 🐍 Python Specialist: My primary focus is Python, where I build everything from automation scripts to desktop
+     utilities.
+   - ⚡ Efficiency Driven: I prioritize writing readable and maintainable code, treating every commit as a learning
+     opportunity.
+   - 🚀 Lifelong Learner: Constantly expanding my horizons by diving into new paradigms and languages.
 ---
+
 ### 🛠️ My Tech Stack
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
@@ -39,47 +43,60 @@ This overview shows my GitHub statistics to give you an idea about my activity l
 
 ---
 
-## ⚙️ Skills
+## 🛠️ Technical Ecosystem
 
-- **Python:** My preferred programming language for various projects, including APIs, automation scripts, and data analytics
-- **C:** Utilized for low-level programming and performance-critical tasks
-- **CSS, HTML, JavaScript:** Proficient in frontend web development technologies
-- **Shell:** My go-to language for automation and scripting tasks
-- **Lua:** Knowledge of scripting language used in gaming industry and embedded systems
-- **SCSS:** Skillful in writing stylesheets, particularly with SCSS preprocessor
-- **QML:** Experience with QML, a user interface markup language for Qt applications
-- **Nix:** Familiarity with Nix language used by the Nix package manager
-- **Roff:** Proficient in formatting language mainly used for UNIX man pages
-- **Makefile:** Knowledge of build automation using Makefile
-- **Dart, Swift, Kotlin, Objective-C:** Some exposure to mobile app development
-- **Cuda:** Basic understanding of parallel computing platform and application programming interface
-- **Dockerfile:** Proficient in creating containerized environments using Docker
+  I enjoy working across the entire stack, from low-level systems to modern mobile interfaces.
 
----
 
-## 🔧 Projects
+  <table>
+       <tr>
+         <td><b>Primary</b></td>
+         <td>Python, Shell, Lua, Makefile</td>
+       </tr>
+       <tr>
+         <td><b>Systems & Low-Level</b></td>
+         <td>C, CUDA, Nix, Roff</td>
+       </tr>
+       <tr>
+         <td><b>Mobile & Desktop</b></td>
+         <td>Swift, Kotlin, Dart, Objective-C, QML</td>
+       </tr>
+       <tr>
+         <td><b>Web & Styling</b></td>
+         <td>JavaScript, HTML5, CSS3, SCSS</td>
+       </tr>
+       <tr>
+         <td><b>DevOps & Infra</b></td>
+         <td>Dockerfile, Linux/Mac/Win Environments</td>
+       </tr>
+    </table>
 
-Here are some of my notable projects for you to check out:
 
-1. [Repository1](link): A brief description of the project, highlighting the technologies and concepts used.
+## 🔧 Featured Projects
 
-2. [Repository2](link): A brief description of the project, highlighting the technologies and concepts used.
+  Check out some of my recent experiments:
 
-3. [Repository3](link): A brief description of the project, highlighting the technologies and concepts used.
+   1. [MyIP for macOS](https://github.com/elevation75/myip-macos) - A native-feeling macOS menu bar tool built with
+      Python and Rumps.
+   2. [Arch_packages_manager](https://github.com/elevation75/arch_packages_manager) - A TUI manager for managing Arch Linux packages.
+   3. [Favfeedr_flutter](https://github.com/elevation75/favfeedr_flutter) - A simple app to view new posts from your favorite YT channel's subscriptions.
+   4. More projects coming soon...
 
-Please visit my [Profile](https://github.com/elevation75) to explore more of my repositories.
+  ---
 
----
 
-## 📫 Contact Information
+## 📫 Connect with Me
 
- You can reach me through the following channels:
-- Email: just.elevation@gmail.com
-- LinkedIn: [Elevation75](https://www.linkedin.com/in/elevation75)
-- Website: [www.elevation75.com](https://www.elevation75.com)
+  I'm always open to discussing technology, collaborating on interesting tools, or simply connecting with fellow
+  builders.
 
-Don't hesitate to get in touch for collaborations, inquiries, or if you simply want to connect. I look forward to hearing from you!
+   - Email: just.elevation@gmail.com (mailto:just.elevation@gmail.com)
+   - LinkedIn: Elevation75 (https://www.linkedin.com/in/elevation75)
+   - Website: www.elevation75.com (https://www.elevation75.com)
 
----
+  ---
 
-Thank you for visiting my GitHub profile! Enjoy exploring my projects and don't hesitate to contact me for any further information or inquiries. Happy coding! 😄🚀
+<p align="center">
+    <i>"Code is poetry for those who like to build."</i> <br>
+    <b>Happy Coding! 😄🚀</b>
+  </p>
